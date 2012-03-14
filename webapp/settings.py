@@ -74,6 +74,7 @@ STATICFILES_FINDERS = (
     'django.contrib.staticfiles.finders.AppDirectoriesFinder',
 )
 
+# Make this unique. 
 SECRET_KEY = 'j_flbhep6uh9j%e10mw6%2*(@notj2n&p-mf(-scg6edsgvsvr'
 
 #========================================
